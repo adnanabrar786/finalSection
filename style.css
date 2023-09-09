@@ -728,49 +728,21 @@
         cursor: pointer; */
     }
 
+    .card_one {
+        margin-top: 100px;
+        /* width: 20%; */
+    }
+    
+    .card_one>.card {
+        /* width: 100%;
+        z-index: 100; */
+    }
+
 
 
     /* yah tk kari hy bs */
 
-    /* card_three */
-  
-
-    .card_five>.card {
-        top: 210px;
-
-        /* top: 220px; */
-
-        /* top: 320px; */
-
-
-
-        /* position: absolute; */
-        /* width: 20%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        z-index: 100; */
-    }
-
-
-
-    .card_six>.card {
-        top: 210px;
-
-        /* top: 220px;  */
-
-        /* top: 330px; */
-
-
-        /* position: absolute;
-        left: 70px;
-        top: 370px;
-        width: 20%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        z-index: 100; */
-    }
+   
 }
 
 
