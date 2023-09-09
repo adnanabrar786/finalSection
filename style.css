@@ -742,13 +742,8 @@
         z-index: 100; */
     }
 
-
-
-    /* yah tk kari hy bs */
-
-    /* card_three */
     .card_three {
-        top: -10px;
+        top: -100px;
 
         /* top: 0px; */
 
@@ -761,6 +756,12 @@
         position: absolute;
         z-index: 100; */
     }
+
+
+    /* yah tk kari hy bs */
+
+    /* card_three */
+  
 
     .card_five>.card {
         top: 210px;
