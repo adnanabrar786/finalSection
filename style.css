@@ -677,6 +677,14 @@
 
 @media only screen and (max-width:982px) {
 
+
+    .line_one {
+        margin-top: 15px;
+        position: absolute;
+        width: 90%;
+        top: 100px;
+    }
+
     /* * fisrt_div */
     .heading_div_wrapper {
         /* display: flex;
