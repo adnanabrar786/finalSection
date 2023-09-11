@@ -758,7 +758,7 @@
     .line_two {
         /* position: absolute;
         width: 90%; */
-        top: -100px;
+        top: -90px;
     }
 
     /* * fisrt_div */
@@ -859,7 +859,7 @@
 
 
     .card_five>.card {
-        top: 130px;
+        top: 120px;
         /* position: absolute;
         top: 370px;
         width: 20%;
@@ -871,7 +871,7 @@
 
 
     .card_six>.card {
-        top: 130px;
+        top: 120px;
         /* position: absolute;
         left: 70px;
         top: 390px;
