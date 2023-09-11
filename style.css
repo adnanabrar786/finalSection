@@ -675,6 +675,8 @@
     }
 }
 
+
+
 @media only screen and (max-width:982px) {
 
 
@@ -682,7 +684,13 @@
         margin-top: 15px;
         position: absolute;
         width: 90%;
-        top: 165px;
+        top: 50px;
+    }
+
+    .line_two {
+        /* position: absolute;
+        width: 90%; */
+        top: -80px;
     }
 
     /* * fisrt_div */
@@ -729,7 +737,7 @@
     }
 
     .card_one {
-        margin-top: 170px;
+        margin-top: 50px;
         /* width: 20%; */
     }
 
@@ -771,13 +779,46 @@
 
     }
 
+    .card_four {
+        top: 50px;
+        /* position: absolute;
+        right: 0px;
+        top: 175px;
+        width: 20%;
+        z-index: 100; */
+    }
 
+
+    .card_five>.card {
+        top: 128px;
+        /* position: absolute;
+        top: 370px;
+        width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        z-index: 100; */
+    }
+
+
+    .card_six>.card {
+        top: 130px;
+        /* position: absolute;
+        left: 70px;
+        top: 390px;
+        width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        z-index: 100; */
+    }
 
 
     /* yah tk kari hy bs */
 
 
 }
+
 
 
 
