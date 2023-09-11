@@ -752,13 +752,13 @@
         margin-top: 15px;
         position: absolute;
         width: 90%;
-        top: 20px;
+        top: 50px;
     }
 
     .line_two {
         /* position: absolute;
         width: 90%; */
-        top: -80px;
+        top: -50px;
     }
 
     /* * fisrt_div */
@@ -776,7 +776,7 @@
         /* color: #242E62;
         font-weight: 700;
         font-size: 40px; */
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .heading_div>p {
