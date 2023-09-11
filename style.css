@@ -828,7 +828,7 @@
 
     .card_two>.card {
         position: absolute;
-        top: -120px;
+        top: -160px;
         /* width: 20%;
         display: flex;
         flex-direction: column;
@@ -839,7 +839,7 @@
 
     /* card_three */
     .card_three {
-        top: -60px;
+        top: -90px;
         /* left: 70px;
         top: -25px;
         width: 20%;
