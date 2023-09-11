@@ -752,7 +752,6 @@
         margin-top: 15px;
         position: absolute;
         width: 90%;
-        top: 100px;
     }
 
     .line_two {
@@ -777,6 +776,7 @@
         font-weight: 700;
         font-size: 40px; */
         font-size: 30px;
+        background-color: aqua;
     }
 
     .heading_div>p {
