@@ -752,6 +752,7 @@
         margin-top: 15px;
         position: absolute;
         width: 90%;
+        top: 100px;
     }
 
     .line_two {
@@ -838,7 +839,7 @@
 
     /* card_three */
     .card_three {
-        top: 20px;
+        top: -30px;
         /* left: 70px;
         top: -25px;
         width: 20%;
